@@ -28,6 +28,9 @@
   Add/ remove/ update/ view employees
   ![Test Image 4](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/view-all-emp.png)
   Add/update/view performance reviews
-  ![Test Image 4]()
+  ![Test Image 4](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/admin-task.png)
+  Assign employees to participate in another employee's performance review
+  
+  
   
   
