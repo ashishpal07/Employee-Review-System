@@ -36,7 +36,11 @@
   * Employee View
     * List of performance review requiring feedback
     * Submit feedback
-  ![test4]()
+  ![test4](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/employe-task.png)
+  * Login
+  ![test5](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/login.png)
+  * Register
+  ![test6](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/register.png)
   
   
   
