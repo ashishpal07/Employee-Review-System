@@ -24,7 +24,7 @@
   ```
   
   ## Features
-    * Admin View
-    Add/ remove/ update/ view employees
-    ![Test Image 4]()
+  * Admin View
+  Add/ remove/ update/ view employees
+  ![Test Image 4]()
   
