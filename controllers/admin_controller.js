@@ -48,8 +48,7 @@ module.exports.setReviewrs = async function(req, res){
                 return res.redirect('back');
             }else{
                 let reviewer = await User.findById(req.body.Reviewer);
-                console.log(req.body.Reviewer);
-                console.log("r = ", reviewer);
+                
                 // if reviewer not found
                 if(!reviewer){
                     return res.redirect('back');

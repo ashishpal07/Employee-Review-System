@@ -115,7 +115,7 @@ module.exports.home = async function(req, res){
 
         for(let i = 0; i < review.length; i++){
             let x = await User.findById(review[i].from);
-            console.log('review = ', x);
+            
 
             let curr_review = {
                 name : x.name,
