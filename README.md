@@ -30,6 +30,10 @@
   Add/update/view performance reviews
   ![Test Image 4](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/admin-task.png)
   Assign employees to participate in another employee's performance review
+  ![Test](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/assign-work.png)
+  Admin can add new employee also by registring
+  ![test]()
+  
   
   
   
