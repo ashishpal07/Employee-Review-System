@@ -42,6 +42,14 @@
   * Register
   ![test6](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/register.png)
   
-  
+  ## Directory Structure
+  * ```/assets/css``` - all css code
+  * ```/assets/img``` - all the images
+  * ```/config``` - MongooDB Atlas Configuration
+  * ```/controllers``` - questions & option controllers code
+  * ```/model``` - question & option schemas
+  * ```/routes``` - question & option routes
+  * ```/views``` - all ejs files
+  * ```index.js``` - entry file
   
   
