@@ -26,5 +26,8 @@
   ## Features
   * Admin View
   Add/ remove/ update/ view employees
+  ![Test Image 4](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/view-all-emp.png)
+  Add/update/view performance reviews
   ![Test Image 4]()
+  
   
