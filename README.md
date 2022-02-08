@@ -23,6 +23,13 @@
   $ nodemon index.js or npm start
   ```
   
+  Entering login admin point (important)
+  using this email and pass login into project please
+  ``` 
+  email : pradeep@gmail.com
+  password : 123
+  ```
+  
   ## Features
   * Admin View
   Add/ remove/ update/ view employees
