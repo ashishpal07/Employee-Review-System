@@ -13,7 +13,7 @@
   2. Start by installing npm if you don't have it already.
   3. Navigate to Project Directory by : Using
   ```
-  cd (to your prespective directory in which the preoject is)
+  cd Employee Review System
   
   ```
   
@@ -47,8 +47,8 @@
   * ```/assets/img``` - all the images
   * ```/config``` - MongooDB Atlas Configuration
   * ```/controllers``` - questions & option controllers code
-  * ```/model``` - question & option schemas
-  * ```/routes``` - question & option routes
+  * ```/model``` - review and users. 
+  * ```/routes``` - all routes according to admin and employee is here
   * ```/views``` - all ejs files
   * ```index.js``` - entry file
   
