@@ -11,6 +11,20 @@
 # How to setup the project on local system
   1. Clone this project
   2. Start by installing npm if you don't have it already.
-  3. Navigate to Project Directory by : 
+  3. Navigate to Project Directory by : Using
+  ```
+  cd (to your prespective directory in which the preoject is)
   
+  ```
+  
+  After reaching to the this preoject directory yo have to run this following command :
+  ```
+  $ npm install
+  $ nodemon index.js or npm start
+  ```
+  
+  ## Features
+    * Admin View
+    Add/ remove/ update/ view employees
+    ![Test Image 4]()
   
